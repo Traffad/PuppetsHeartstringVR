@@ -1,0 +1,2 @@
+# PuppetsHeartstringVR
+A Puppet's Heartstring VR is a story about the Waterspirit coming back to the village Strömsvik to snatch yet anther human. The experence was made primalary for the GearVR and competed in the Oculus VR jam 2015 on challangepost. Soon thereafter we added support for Oculus and Android. The idea now is to make use of the storytellingmecanism. There are some soundisues that we well be cleaning up to enhance. The experience for PC and Android.
