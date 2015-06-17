@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 509d388b9300cb5438fd045dea42ff5b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_2
+    100006: group_2 1
+    100008: group_2 2
+    100010: group_2 3
+    100012: group_3
+    100014: group_3 1
+    100016: group_3 2
+    100018: group_3 3
+    100020: huset
+    100022: husett
+    100024: husett 1
+    100026: husett 2
+    100028: husett 3
+    100030: husett 4
+    100032: ID165
+    100034: ID173
+    100036: ID181
+    100038: ID189
+    100040: ID197
+    100042: ID205
+    100044: ID213
+    100046: ID221
+    100048: ID229
+    100050: ID237
+    100052: ID245
+    100054: ID253
+    100056: ID261
+    100058: ID269
+    100060: ID281
+    100062: ID287
+    100064: ID293
+    100066: ID299
+    100068: ID305
+    100070: ID311
+    100072: ID317
+    100074: ID76
+    100076: ID76 1
+    100078: ID76 2
+    100080: ID76 3
+    100082: ID89
+    100084: ID89 1
+    100086: ID89 2
+    100088: ID89 3
+    100090: ID95
+    100092: ID95 1
+    100094: ID95 2
+    100096: ID95 3
+    100098: instance_0
+    100100: instance_1
+    100102: instance_10
+    100104: instance_11
+    100106: instance_12
+    100108: instance_13
+    100110: instance_14
+    100112: instance_15
+    100114: instance_16
+    100116: instance_17
+    100118: instance_18
+    100120: instance_2
+    100122: instance_3
+    100124: instance_4
+    100126: instance_5
+    100128: instance_6
+    100130: instance_7
+    100132: instance_8
+    100134: instance_9
+    100136: //RootNode
+    100138: sitts
+    100140: sittsben
+    100142: sittsben 1
+    100144: sittsben 2
+    100146: sittsben 3
+    100148: trad
+    100150: trad 1
+    100152: trad 2
+    100154: trad 3
+    100156: trappa
+    100158: trappa 1
+    100160: vatten
+    100162: vatten 1
+    400000: group_0
+    400002: group_1
+    400004: group_2
+    400006: group_2 1
+    400008: group_2 2
+    400010: group_2 3
+    400012: group_3
+    400014: group_3 1
+    400016: group_3 2
+    400018: group_3 3
+    400020: huset
+    400022: husett
+    400024: husett 1
+    400026: husett 2
+    400028: husett 3
+    400030: husett 4
+    400032: ID165
+    400034: ID173
+    400036: ID181
+    400038: ID189
+    400040: ID197
+    400042: ID205
+    400044: ID213
+    400046: ID221
+    400048: ID229
+    400050: ID237
+    400052: ID245
+    400054: ID253
+    400056: ID261
+    400058: ID269
+    400060: ID281
+    400062: ID287
+    400064: ID293
+    400066: ID299
+    400068: ID305
+    400070: ID311
+    400072: ID317
+    400074: ID76
+    400076: ID76 1
+    400078: ID76 2
+    400080: ID76 3
+    400082: ID89
+    400084: ID89 1
+    400086: ID89 2
+    400088: ID89 3
+    400090: ID95
+    400092: ID95 1
+    400094: ID95 2
+    400096: ID95 3
+    400098: instance_0
+    400100: instance_1
+    400102: instance_10
+    400104: instance_11
+    400106: instance_12
+    400108: instance_13
+    400110: instance_14
+    400112: instance_15
+    400114: instance_16
+    400116: instance_17
+    400118: instance_18
+    400120: instance_2
+    400122: instance_3
+    400124: instance_4
+    400126: instance_5
+    400128: instance_6
+    400130: instance_7
+    400132: instance_8
+    400134: instance_9
+    400136: //RootNode
+    400138: sitts
+    400140: sittsben
+    400142: sittsben 1
+    400144: sittsben 2
+    400146: sittsben 3
+    400148: trad
+    400150: trad 1
+    400152: trad 2
+    400154: trad 3
+    400156: trappa
+    400158: trappa 1
+    400160: vatten
+    400162: vatten 1
+    2300000: group_0
+    2300002: group_2
+    2300004: group_2 1
+    2300006: group_2 2
+    2300008: group_2 3
+    2300010: group_3
+    2300012: group_3 1
+    2300014: group_3 2
+    2300016: group_3 3
+    2300018: huset
+    2300020: husett
+    2300022: husett 1
+    2300024: husett 2
+    2300026: husett 3
+    2300028: husett 4
+    2300030: ID165
+    2300032: ID173
+    2300034: ID181
+    2300036: ID189
+    2300038: ID197
+    2300040: ID205
+    2300042: ID213
+    2300044: ID221
+    2300046: ID229
+    2300048: ID237
+    2300050: ID245
+    2300052: ID253
+    2300054: ID261
+    2300056: ID281
+    2300058: ID287
+    2300060: ID293
+    2300062: ID299
+    2300064: ID305
+    2300066: ID311
+    2300068: ID317
+    2300070: ID76
+    2300072: ID76 1
+    2300074: ID76 2
+    2300076: ID76 3
+    2300078: ID89
+    2300080: ID89 1
+    2300082: ID89 2
+    2300084: ID89 3
+    2300086: ID95
+    2300088: ID95 1
+    2300090: ID95 2
+    2300092: ID95 3
+    2300094: //RootNode
+    2300096: sitts
+    2300098: sittsben
+    2300100: sittsben 1
+    2300102: sittsben 2
+    2300104: sittsben 3
+    2300106: trad
+    2300108: trad 1
+    2300110: trad 2
+    2300112: trad 3
+    2300114: trappa
+    2300116: trappa 1
+    2300118: vatten
+    2300120: vatten 1
+    3300000: group_0
+    3300002: group_2
+    3300004: group_2 1
+    3300006: group_2 2
+    3300008: group_2 3
+    3300010: group_3
+    3300012: group_3 1
+    3300014: group_3 2
+    3300016: group_3 3
+    3300018: huset
+    3300020: husett
+    3300022: husett 1
+    3300024: husett 2
+    3300026: husett 3
+    3300028: husett 4
+    3300030: ID165
+    3300032: ID173
+    3300034: ID181
+    3300036: ID189
+    3300038: ID197
+    3300040: ID205
+    3300042: ID213
+    3300044: ID221
+    3300046: ID229
+    3300048: ID237
+    3300050: ID245
+    3300052: ID253
+    3300054: ID261
+    3300056: ID281
+    3300058: ID287
+    3300060: ID293
+    3300062: ID299
+    3300064: ID305
+    3300066: ID311
+    3300068: ID317
+    3300070: ID76
+    3300072: ID76 1
+    3300074: ID76 2
+    3300076: ID76 3
+    3300078: ID89
+    3300080: ID89 1
+    3300082: ID89 2
+    3300084: ID89 3
+    3300086: ID95
+    3300088: ID95 1
+    3300090: ID95 2
+    3300092: ID95 3
+    3300094: //RootNode
+    3300096: sitts
+    3300098: sittsben
+    3300100: sittsben 1
+    3300102: sittsben 2
+    3300104: sittsben 3
+    3300106: trad
+    3300108: trad 1
+    3300110: trad 2
+    3300112: trad 3
+    3300114: trappa
+    3300116: trappa 1
+    3300118: vatten
+    3300120: vatten 1
+    4300000: SketchUp
+    4300002: ID281
+    4300004: ID287
+    4300006: ID293
+    4300008: ID299
+    4300010: ID305
+    4300012: ID311
+    4300014: ID317
+    4300016: group_0
+    4300018: sitts
+    4300020: sittsben
+    4300022: trad
+    4300024: ID76
+    4300026: ID89
+    4300028: ID95
+    4300030: group_2
+    4300032: group_3
+    4300034: husett
+    4300036: trappa
+    4300038: vatten
+    4300040: huset
+    4300042: ID165
+    4300044: ID173
+    4300046: ID181
+    4300048: ID189
+    4300050: ID197
+    4300052: ID205
+    4300054: ID213
+    4300056: ID221
+    4300058: ID229
+    4300060: ID237
+    4300062: ID245
+    4300064: ID253
+    4300066: ID261
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
