@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 4931e7737eb7fdb4da7bc70e070e626b
+timeCreated: 1430318684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera_001
+    100004: Camera_002
+    100006: Cylinder_001
+    100008: Cylinder_002
+    100010: Cylinder_003
+    100012: //RootNode
+    100014: evaKRPP
+    100016: Hemi
+    100018: Hemi_001
+    100020: Hemi_001 1
+    100022: Hemi_002
+    100024: Lamp
+    100026: Sphere
+    100028: Sphere_001
+    100030: Sphere_002
+    100032: Sun
+    100034: tomtehuve_000
+    100036: tomtehuve_001
+    100038: tomteKRopp_001
+    100040: tomteluvaROOD
+    400000: Camera
+    400002: Camera_001
+    400004: Camera_002
+    400006: Cylinder_001
+    400008: Cylinder_002
+    400010: Cylinder_003
+    400012: //RootNode
+    400014: evaKRPP
+    400016: Hemi
+    400018: Hemi_001
+    400020: Hemi_001 1
+    400022: Hemi_002
+    400024: Lamp
+    400026: Sphere
+    400028: Sphere_001
+    400030: Sphere_002
+    400032: Sun
+    400034: tomtehuve_000
+    400036: tomtehuve_001
+    400038: tomteKRopp_001
+    400040: tomteluvaROOD
+    2300000: Cylinder_001
+    2300002: Cylinder_002
+    2300004: Cylinder_003
+    2300006: evaKRPP
+    2300008: Sphere
+    2300010: Sphere_001
+    2300012: Sphere_002
+    2300014: tomtehuve_000
+    2300016: tomtehuve_001
+    2300018: tomteKRopp_001
+    2300020: tomteluvaROOD
+    3300000: Cylinder_001
+    3300002: Cylinder_002
+    3300004: Cylinder_003
+    3300006: evaKRPP
+    3300008: Sphere
+    3300010: Sphere_001
+    3300012: Sphere_002
+    3300014: tomtehuve_000
+    3300016: tomtehuve_001
+    3300018: tomteKRopp_001
+    3300020: tomteluvaROOD
+    4300000: Sphere_001
+    4300002: Cylinder_001
+    4300004: Cylinder_003
+    4300006: Cylinder_002
+    4300008: tomteKRopp_001
+    4300010: tomtehuve_001
+    4300012: tomteluvaROOD
+    4300014: Sphere
+    4300016: tomtehuve_000
+    4300018: evaKRPP
+    4300020: Sphere_002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
